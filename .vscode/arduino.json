@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:arduinoasispatmega32u4",
+    "port": "COM4",
+    "sketch": "STEAM-project-stuff.ino"
+}
